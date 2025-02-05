@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/1YNGXYSx/Brown-Black-Geometric-Personal-Branding-Linked-In-Banner-5.png"  />
+  <img height="300" src="https://i.ibb.co.com/P590GDs/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png"  />
 </div>
 
 ###
